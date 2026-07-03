@@ -83,7 +83,7 @@ The datapath consists of:
 
 ## Datapath and Control Path
 
-![Datapath and Control Path](datapath and controlpath.png)
+![Datapath and Control Path](datapath and controlepath.png)
 
 ## Controller FSM
 

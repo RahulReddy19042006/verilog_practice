@@ -2,7 +2,7 @@
 `include "universal_shift_register.v"
 
 module universal_shift_register_tb;
-
+ 
 parameter N = 4;
 reg clk, rst, serial_in_left, serial_in_right; 
 reg [1:0] sel;

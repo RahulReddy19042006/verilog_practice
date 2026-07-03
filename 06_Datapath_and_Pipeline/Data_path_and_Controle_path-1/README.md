@@ -181,9 +181,3 @@ This project demonstrates:
 - Visual Studio Code
 
 ---
-
-## Author
-
-Rahul Reddy
-
-Electronics and Communication Engineering (ECE)

@@ -81,14 +81,9 @@ The datapath consists of:
 
 ---
 
-##  Diagram
+## Datapath and Control Path
 
-
-```md
-![Datapath and Controlepath](datapath and controlepath.png)
-```
-
----
+![Datapath and Control Path](datapath and controlpath.png)
 
 ## Controller FSM
 
@@ -165,8 +160,3 @@ This project demonstrates:
 
 ---
 
-## Author
-
-Rahul Reddy
-
-Electronics and Communication Engineering (ECE)

@@ -12,7 +12,7 @@ The objective is to design a hardware circuit that takes register addresses, an 
 
 Every instruction goes through these specific hardware steps as outlined in the functional requirements:
 
-![Functional Specification](example_explanation.jpg)
+![Functional Specification](example_explanation.png)
 *Figure 1: Architectural description and stage-wise behavioral requirements of the 4-stage pipeline.*
 
 1. **Stage 1 (S1) | Fetch & Read:** Reads two 16-bit values from the internal Register File (`regbank`) at addresses specified by `rs1` and `rs2`. The values are held in pipeline registers `A` and `B`.
